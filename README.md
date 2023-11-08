@@ -18,18 +18,18 @@ Make sure you have Java installed on your system.
 
 ### Clone the Repository
 ```shell
-git clone https://github.com/yourusername/UNOMaster.git
-cd UNOMaster
+git clone https://github.com/PranavMistry3/uno-master.git
+cd uno-master
 ```
 
 ### Compile the code
 ```shell
-javac UNOMaster.java
+javac StartGame.java
 ```
 
 ### Run the code
 ```shell
-java UNOMaster
+java StartGame
 ```
 
 ### How to Play
